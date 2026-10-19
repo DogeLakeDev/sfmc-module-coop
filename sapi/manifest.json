@@ -4,8 +4,6 @@
   "id": "coop",
   "name": "合作社",
   "configKey": "coop",
-  "enabledByDefault": true,
-  "canDisable": true,
   "requires": ["economy", "activity-log"],
   "permissions": [
     "config:read:coop",
